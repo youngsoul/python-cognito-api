@@ -1,0 +1,10 @@
+POST https://XXX.execute-api.us-east-1.amazonaws.com/test/add-note
+Content-Type: application/json
+token: eyJraWQiO
+
+{
+  "note": "bring home milk"
+}
+
+
+###
