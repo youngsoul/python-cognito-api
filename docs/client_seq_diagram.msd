@@ -28,10 +28,9 @@ PC->COG: 4. Login (initiate_auth)
 COG->PC: 4.5 Returns token
 loop [Multiple Requests]
 	PC->API: 5. HTTP Request with token
-	API->COG: 6. Verify token
-	COG->API: 7. Verification status
-	API->LAM: 8. Call Lambda
-	LAM->PC: 9. Response with Lambda results
+	API->API: 6. Verify token
+	API->LAM: 7. Call Lambda
+	LAM->PC: 8. Response with Lambda results
 
 
 
