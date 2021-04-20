@@ -47,7 +47,7 @@ prometheus-client==0.7.1
 prompt-toolkit==3.0.4
 psycopg2-binary==2.8.2
 ptyprocess==0.6.0
-py==1.8.0
+py==1.10.0
 pyasn1==0.4.8
 pycparser==2.20
 Pygments==2.6.1
