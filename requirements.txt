@@ -30,7 +30,7 @@ jupyter==1.0.0
 jupyter-client==6.0.0
 jupyter-console==6.1.0
 jupyter-core==4.6.3
-Mako==1.0.10
+Mako==1.2.2
 MarkupSafe==1.1.1
 mistune==0.8.4
 more-itertools==8.0.2
